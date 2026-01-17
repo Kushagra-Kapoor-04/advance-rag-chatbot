@@ -188,15 +188,6 @@ Choose from 5 different answer styles:
 
 Use freely for personal projects.
 
-## 💡 Future Improvements
+Live Demo
+https://advance-rag-chatbot.streamlit.app/
 
-- [ ] GPU support for faster inference
-- [ ] Web search integration
-- [ ] Multiple language support
-- [ ] Conversation history
-- [ ] Custom LLM fine-tuning
-- [ ] Docker deployment
-
----
-
-**Happy learning! 🎓**
